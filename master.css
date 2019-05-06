@@ -1,0 +1,10 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css");
+
+html, body{
+margin: 0;
+}
+body{
+  background-image: linear-gradient(to right, #ffb744,
+#e84c4c);
+font-family: 'Comfortaa', cursive;
+}
