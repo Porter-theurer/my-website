@@ -2,10 +2,16 @@
 
 html, body{
 margin: 0;
-color: #ffb744;
+color: white;
 }
 body{
   background-image: linear-gradient(to right, #ffb744,
 #e84c4c);
 font-family: 'Comfortaa', cursive;
+}
+.somePadding {
+ padding: 100px;
+ margin: auto;
+ max-width: 800px;
+ justify-content: center;
 }
